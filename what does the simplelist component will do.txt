@@ -1,0 +1,2 @@
+1.The list component is used to map the values present inside the items, which is passed as props to the list component.
+2.Its conatins another child component called singlelistitem.which is used to change the colour of the items when its is clicked(using javascript on click function)
